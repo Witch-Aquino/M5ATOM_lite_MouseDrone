@@ -8,8 +8,7 @@ by M5ATOM_lite with Bluetooth connection.
 
 ## Requirement
 
-- install ESP32 BLE Mouse library v0.2.0
-  (Didn't work with the latest)
+- install ESP32 BLE Mouse library
   
 https://github.com/T-vK/ESP32-BLE-Mouse/
 
